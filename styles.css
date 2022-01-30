@@ -1,0 +1,31 @@
+#Nav {
+    margin:0 auto;
+    font-size: 20px;
+}
+div{
+    background-color: chartreuse;
+}
+body{
+    background-color: white;
+    color: black;
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h1 {text-align: center; font-size: 28px; color: black
+}
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 25%;
+}
+a {
+    color:rgb(241, 36, 9);
+}
+h2 {text-align: center; font-size: 24px; color:rgb(255, 217, 0);
+}
+h3 {text-align: center; font-size: 22px; color:orangered;
+}
+h3 + p {
+    color: green;
+}
